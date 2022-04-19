@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon/030319363179_0叉叉.ico</file>
+        <file>FunctionWindow.qml</file>
+        <file>FunctionWindowForm.ui.qml</file>
+        <file>EdgeDisplay.qml</file>
+        <file>EdgeDisplayForm.ui.qml</file>
+        <file>image/设置白色.png</file>
+        <file>image/设置灰色.png</file>
+        <file>image/信息白.png</file>
+        <file>image/信息灰.png</file>
+        <file>image/连接.png</file>
+    </qresource>
+</RCC>
